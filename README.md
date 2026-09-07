@@ -103,23 +103,25 @@ Hardened zero-trust architecture for temporary credential lifecycle. Eliminates 
 
 <div align="center">
 
-<!-- Streak Stats - working -->
+<!-- Streak Stats - VERIFIED WORKING -->
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=lusufer-rohit&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" alt="GitHub Streak" width="70%" />
 
 <br/><br/>
 
-<!-- Activity Graph - usually works better than stats cards -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=lusufer-rohit&bg_color=0d1117&color=58a6ff&line=58a6ff&point=8b949e&area=true&area_color=58a6ff&hide_border=true" alt="Activity Graph" width="95%" />
+<!-- Stats using anuraghazra's own deployed instance -->
+<img src="https://github-readme-stats.vercel.app/api?username=lusufer-rohit&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&icon_color=58a6ff&count_private=true" alt="GitHub Stats" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lusufer-rohit&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e" alt="Top Languages" width="40%" />
 
 </div>
 
 ---
 
-### 🏆 GitHub Trophies
+### 🏆 Achievements
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=lusufer-rohit&theme=onestar&no-frame=true&no-bg=true&margin-w=5&column=-1" alt="Trophies" />
+<!-- Trophies with ryo-ma's app - using margin and row-specific theme -->
+<img src="https://github-profile-trophy.vercel.app/?username=lusufer-rohit&theme=darkhub&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=4" alt="GitHub Trophies" />
 
 </div>
 
