@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Header Capsule with Portfolio Gradient (Indigo to Cyan: 818cf8 -> 06b6d4) -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b0f19,30:1e1b4b,70:0e3a59,100:06b6d4&height=230&section=header&text=127HUB&fontSize=70&fontAlignY=36&desc=ROHIT%20%7C%20Cybersecurity%20Developer%20%26%20Full-Stack%20Engineer&descAlignY=60&descSize=18&fontColor=ffffff&descColor=06b6d4&animation=fadeIn" width="100%" alt="127HUB Header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b0f19,30:1e1b4b,70:0e3a59,100:06b6d4&height=230&section=header&text=127HUB&fontSize=70&fontAlignY=36&desc=ROHIT%20%E2%80%A2%20Cybersecurity%20Developer%20%26%20Full-Stack%20Engineer&descAlignY=60&descSize=18&fontColor=ffffff&descColor=06b6d4&animation=fadeIn&v=2" width="100%" alt="127HUB Header" />
 
 <!-- Typing Animation matching Portfolio -->
 <a href="https://lusufer.lovable.app/">
