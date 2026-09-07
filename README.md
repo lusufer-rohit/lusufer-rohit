@@ -46,15 +46,15 @@ motto: "Simplicity is prerequisite for reliability."
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">🤖 Telegram OTT Distribution Engine</h3>
+      <h3 align="center">🤖 Refer & Earn Telegram Bot + Redeem Points System</h3>
       <p align="center">
         <img src="https://img.shields.io/badge/Python-3.11+-3776AB?style=flat-square&logo=python&logoColor=white"/>
         <img src="https://img.shields.io/badge/Telegram-v22%20Async-26A5E4?style=flat-square&logo=telegram&logoColor=white"/>
         <img src="https://img.shields.io/badge/Flask-Web%20Dashboard-black?style=flat-square&logo=flask&logoColor=white"/>
       </p>
-      <p>Enterprise-grade asynchronous Telegram bot paired with a responsive Flask Web Admin Panel. Features multi-tier referral economics, atomic JSON transactional storage, automated task scheduling, and digital inventory distribution.</p>
+      <p>Production-ready asynchronous Telegram bot paired with an integrated Flask Web Admin Panel. Features multi-tier referral economics, atomic JSON storage engine, automated background scheduler, gift codes, and digital account inventory distribution.</p>
       <p align="center">
-        <a href="https://github.com/lusufer-rohit/Telegram-OTT-Giveaway-Bot"><b>View Repository →</b></a>
+        <a href="https://github.com/lusufer-rohit/refer-and-earn-telegram-bot-with-redeem-point-system"><b>Explore Repository →</b></a>
       </p>
     </td>
     <td width="50%" valign="top">
@@ -143,7 +143,7 @@ motto: "Simplicity is prerequisite for reliability."
   <a href="https://github.com/lusufer-rohit" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <a href="https://telegram.org" target="_blank">
+  <a href="https://t.me/" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
   </a>
   <a href="https://linkedin.com" target="_blank">
