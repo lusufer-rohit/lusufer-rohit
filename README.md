@@ -9,20 +9,33 @@
 </a>
 
 <p align="center">
+  <a href="https://visitcount.itsvg.in">
+    <img src="https://visitcount.itsvg.in/api?id=lusufer-rohit&icon=1&color=4" alt="Live Visitor Counter" />
+  </a>
   <a href="https://github.com/lusufer-rohit?tab=followers"><img src="https://img.shields.io/github/followers/lusufer-rohit?label=Followers&logo=github&style=for-the-badge&color=000000&logoColor=00F5FF&labelColor=050811" alt="Followers"/></a>
-  <a href="https://github.com/lusufer-rohit"><img src="https://komarev.com/ghpvc/?username=lusufer-rohit&label=System%20Views&color=00F5FF&style=for-the-badge&base=1000" alt="Profile Views"/></a>
   <img src="https://img.shields.io/badge/Status-OLED%20Dark%20Mode-00ff88?style=for-the-badge&logo=visualstudiocode&logoColor=00ff88&labelColor=050811&color=000000" alt="Status"/>
   <img src="https://img.shields.io/badge/Uptime-99.99%25-BD93F9?style=for-the-badge&logo=serverless&logoColor=BD93F9&labelColor=050811&color=000000" alt="Uptime"/>
-</p>
-
-<!-- Dark Mode Profile Trophies -->
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=lusufer-rohit&theme=dracula&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" width="95%"/>
 </p>
 
 ---
 
 </div>
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=lusufer-rohit&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" width="100%"/>
+</div>
+
+---
+
+## 🐍 Contribution Snake Game
+
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" width="100%" />
+</div>
+
+---
 
 ## 🖥️ Terminal Session `rohit@mainframe:~$`
 
