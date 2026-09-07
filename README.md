@@ -5,23 +5,26 @@
 
 <!-- Typing Animation matching Portfolio -->
 <a href="https://lusufer.lovable.app/">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=1000&color=06B6D4&center=true&vCenter=true&width=650&height=45&lines=%3C127HUB%2F%3E+Founder+%26+Lead+Architect;Cybersecurity+Tools+%7C+Zero-Trust+%26+AES;Chrome+Extension+Creator+(Manifest+V3);Telegram+Bot+Ecosystems+%26+Multi-Bot+Engines;ESP32+IoT+Hardware+%26+USB+HID+Automation;Building+the+future%2C+one+line+of+code+at+a+time." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=1000&color=06B6D4&center=true&vCenter=true&width=650&height=45&lines=%3C127HUB%2F%3E+Founder+%26+Lead+Architect;12%2C000%2B+Active+Telegram+Community+Members;Cybersecurity+Tools+%7C+Zero-Trust+%26+AES;Chrome+Extension+Creator+(Manifest+V3);Telegram+Bot+Ecosystems+%26+Multi-Bot+Engines;Building+the+future%2C+one+line+of+code+at+a+time." alt="Typing SVG" />
 </a>
 
 <br/>
 
-<!-- Visitor Counter & Quick Stats -->
+<!-- Visitor Counter & Ecosystem Stats -->
 <p align="center">
   <a href="https://lusufer.lovable.app/">
     <img src="https://img.shields.io/badge/🌐_Portfolio-lusufer.lovable.app-06b6d4?style=for-the-badge&labelColor=0b0f19" alt="Portfolio"/>
   </a>
+  <a href="https://t.me/lusufer127">
+    <img src="https://img.shields.io/badge/Telegram_Reach-12,000%2B_Audience-26A5E4?style=for-the-badge&logo=telegram&logoColor=white&labelColor=0b0f19" alt="Telegram Community"/>
+  </a>
   <img src="https://komarev.com/ghpvc/?username=lusufer-rohit&label=PROFILE+VIEWS&color=06b6d4&style=for-the-badge&base=500" alt="Profile Views" />
-  <img src="https://img.shields.io/badge/Status-Available_for_Projects-10b981?style=for-the-badge&labelColor=0b0f19" alt="Status"/>
 </p>
 
 <!-- Social Links -->
 <p align="center">
-  <a href="https://t.me/lusuferr"><img src="https://img.shields.io/badge/Telegram-@lusuferr-26A5E4?style=flat-square&logo=telegram&logoColor=white&labelColor=0b0f19" alt="Telegram"/></a>
+  <a href="https://t.me/lusufer127"><img src="https://img.shields.io/badge/Main_Channel-@lusufer127-26A5E4?style=flat-square&logo=telegram&logoColor=white&labelColor=0b0f19" alt="Main Channel"/></a>
+  <a href="https://t.me/lusuferr"><img src="https://img.shields.io/badge/Contact-@lusuferr-06b6d4?style=flat-square&logo=telegram&logoColor=white&labelColor=0b0f19" alt="Telegram DM"/></a>
   <a href="https://lusufer.lovable.app/"><img src="https://img.shields.io/badge/Brand-127HUB-818cf8?style=flat-square&logo=firefox-browser&logoColor=white&labelColor=0b0f19" alt="127HUB"/></a>
   <a href="https://github.com/lusufer-rohit"><img src="https://img.shields.io/badge/GitHub-lusufer--rohit-ffffff?style=flat-square&logo=github&logoColor=white&labelColor=0b0f19" alt="GitHub"/></a>
 </p>
@@ -43,6 +46,12 @@ rohit@127hub:~$ cat profile.json
   "role": "Cybersecurity Developer & Full-Stack Engineer",
   "portfolio": "https://lusufer.lovable.app/",
   "philosophy": "Building secure, elegant & high-performance digital solutions.",
+  "community_ecosystem": {
+    "total_reach": "12,000+ Members",
+    "main_channel": "4,790+ Subscribers",
+    "private_channel": "4,590+ VIP Members",
+    "community_group": "2,610+ Active Members"
+  },
   "metrics": {
     "projects_built": "11+",
     "technologies": "8+ Core Stacks",
@@ -50,6 +59,46 @@ rohit@127hub:~$ cat profile.json
   }
 }
 ```
+
+---
+
+### 🌐 Telegram Ecosystem & Communities (`12,000+ Members`)
+
+<div align="center">
+
+<table>
+  <tr>
+    <td width="33%" align="center">
+      <h3>📢 Main Channel</h3>
+      <p><b>Official Releases & Tools</b></p>
+      <a href="https://t.me/lusufer127">
+        <img src="https://img.shields.io/badge/Subscribers-4,790%2B-26A5E4?style=for-the-badge&logo=telegram&logoColor=white&labelColor=0b0f19" alt="Main Channel Subscribers"/>
+      </a>
+      <br/><br/>
+      <a href="https://t.me/lusufer127"><b>👉 Join Main Channel</b></a>
+    </td>
+    <td width="33%" align="center">
+      <h3>🔒 Private VIP Channel</h3>
+      <p><b>Exclusive Drops & Feeds</b></p>
+      <a href="https://t.me/+med0IAI7m4ZkN2Q9">
+        <img src="https://img.shields.io/badge/VIP_Members-4,590%2B-818cf8?style=for-the-badge&logo=telegram&logoColor=white&labelColor=0b0f19" alt="VIP Channel Members"/>
+      </a>
+      <br/><br/>
+      <a href="https://t.me/+med0IAI7m4ZkN2Q9"><b>👉 Join Pvt Channel</b></a>
+    </td>
+    <td width="33%" align="center">
+      <h3>💬 Main Group</h3>
+      <p><b>Active Discussion & Support</b></p>
+      <a href="https://t.me/+UiIung6Lic9mNjk1">
+        <img src="https://img.shields.io/badge/Members-2,610%2B-00c647?style=for-the-badge&logo=telegram&logoColor=white&labelColor=0b0f19" alt="Main Group Members"/>
+      </a>
+      <br/><br/>
+      <a href="https://t.me/+UiIung6Lic9mNjk1"><b>👉 Join Main Group</b></a>
+    </td>
+  </tr>
+</table>
+
+</div>
 
 ---
 
