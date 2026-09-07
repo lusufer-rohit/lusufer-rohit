@@ -5,13 +5,13 @@
 
 <!-- Typing Animation -->
 <a href="https://github.com/lusufer-rohit">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=false&width=600&height=45&lines=Full-Stack+Developer+%7C+Bot+Architect+%7C+Security+Researcher" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=620&height=45&lines=Full-Stack+Developer+%7C+Bot+Architect+%7C+Security+Researcher;Building+Scalable+Telegram+Bot+Ecosystems;Zero-Trust+Security+%26+Ephemeral+Sessions;Write+Self-Healing+Systems+That+Fail+Gracefully" alt="Typing SVG" />
 </a>
 
 <br/>
 
-<!-- Working Visitor Counter using komarev -->
-<img src="https://komarev.com/ghpvc/?username=lusufer-rohit&label=PROFILE+VIEWS&color=58a6ff&style=flat-square&base=500" alt="Profile Views" />
+<!-- Working Visitor Counter -->
+<img src="https://komarev.com/ghpvc/?username=lusufer-rohit&label=PROFILE+VIEWS&color=58a6ff&style=flat-square" alt="Profile Views" />
 
 <br/><br/>
 
@@ -99,26 +99,27 @@ Hardened zero-trust architecture for temporary credential lifecycle. Eliminates 
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Analytics
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=lusufer-rohit&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" alt="GitHub Streak" width="49%" />
+<!-- Streak Stats - working -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=lusufer-rohit&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" alt="GitHub Streak" width="70%" />
 
-<br/>
+<br/><br/>
 
-| ![Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=lusufer-rohit&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&icon_color=58a6ff) | ![Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=lusufer-rohit&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e) |
-|---|---|
+<!-- Activity Graph - usually works better than stats cards -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=lusufer-rohit&bg_color=0d1117&color=58a6ff&line=58a6ff&point=8b949e&area=true&area_color=58a6ff&hide_border=true" alt="Activity Graph" width="95%" />
 
 </div>
 
 ---
 
-### 🏆 Achievements
+### 🏆 GitHub Trophies
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=lusufer-rohit&theme=gitdimmed&no-frame=true&no-bg=true&margin-w=5&column=7" alt="Trophies" width="100%" />
+<img src="https://github-profile-trophy.vercel.app/?username=lusufer-rohit&theme=onestar&no-frame=true&no-bg=true&margin-w=5&column=-1" alt="Trophies" />
 
 </div>
 
@@ -127,5 +128,7 @@ Hardened zero-trust architecture for temporary credential lifecycle. Eliminates 
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1a1b27&height=100&section=footer" width="100%" />
+
+<sub>⚡ Designed with dark mode precision</sub>
 
 </div>
