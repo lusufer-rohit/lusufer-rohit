@@ -72,7 +72,7 @@ rohit@127hub:~$ cat profile.json
       <h3>📢 Main Channel</h3>
       <p><b>Official Releases & Tools</b></p>
       <a href="https://t.me/lusufer127">
-        <img src="https://img.shields.io/badge/Subscribers-5,123%2B-26A5E4?style=for-the-badge&logo=telegram&logoColor=white&labelColor=0b0f19" alt="Main Channel Subscribers"/>
+        <img src="https://img.shields.io/badge/Subscribers-5,122%2B-26A5E4?style=for-the-badge&logo=telegram&logoColor=white&labelColor=0b0f19" alt="Main Channel Subscribers"/>
       </a>
       <br/><br/>
       <a href="https://t.me/lusufer127"><b>👉 Join Main Channel</b></a>
@@ -90,7 +90,7 @@ rohit@127hub:~$ cat profile.json
       <h3>💬 Main Group</h3>
       <p><b>Active Discussion & Support</b></p>
       <a href="https://t.me/+UiIung6Lic9mNjk1">
-        <img src="https://img.shields.io/badge/Members-3,101%2B-00c647?style=for-the-badge&logo=telegram&logoColor=white&labelColor=0b0f19" alt="Main Group Members"/>
+        <img src="https://img.shields.io/badge/Members-3,102%2B-00c647?style=for-the-badge&logo=telegram&logoColor=white&labelColor=0b0f19" alt="Main Group Members"/>
       </a>
       <br/><br/>
       <a href="https://t.me/+UiIung6Lic9mNjk1"><b>👉 Join Main Group</b></a>
