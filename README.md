@@ -16,7 +16,7 @@
     <img src="https://img.shields.io/badge/🌐_Portfolio-lusufer.lovable.app-06b6d4?style=for-the-badge&labelColor=0b0f19" alt="Portfolio"/>
   </a>
   <a href="https://t.me/lusufer127">
-    <img src="https://img.shields.io/badge/Telegram_Reach-13,339%2B_Audience-26A5E4?style=for-the-badge&logo=telegram&logoColor=white&labelColor=0b0f19" alt="Telegram Community"/>
+    <img src="https://img.shields.io/badge/Telegram_Reach-13,341%2B_Audience-26A5E4?style=for-the-badge&logo=telegram&logoColor=white&labelColor=0b0f19" alt="Telegram Community"/>
   </a>
   <img src="https://komarev.com/ghpvc/?username=lusufer-rohit&label=PROFILE+VIEWS&color=06b6d4&style=for-the-badge&base=500" alt="Profile Views" />
 </p>
@@ -90,7 +90,7 @@ rohit@127hub:~$ cat profile.json
       <h3>💬 Main Group</h3>
       <p><b>Active Discussion & Support</b></p>
       <a href="https://t.me/+UiIung6Lic9mNjk1">
-        <img src="https://img.shields.io/badge/Members-3,163%2B-00c647?style=for-the-badge&logo=telegram&logoColor=white&labelColor=0b0f19" alt="Main Group Members"/>
+        <img src="https://img.shields.io/badge/Members-3,165%2B-00c647?style=for-the-badge&logo=telegram&logoColor=white&labelColor=0b0f19" alt="Main Group Members"/>
       </a>
       <br/><br/>
       <a href="https://t.me/+UiIung6Lic9mNjk1"><b>👉 Join Main Group</b></a>
