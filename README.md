@@ -81,7 +81,7 @@ rohit@127hub:~$ cat profile.json
       <h3>🔒 Private VIP Channel</h3>
       <p><b>Exclusive Drops & Feeds</b></p>
       <a href="https://t.me/+med0IAI7m4ZkN2Q9">
-        <img src="https://img.shields.io/badge/VIP_Members-6,182%2B-818cf8?style=for-the-badge&logo=telegram&logoColor=white&labelColor=0b0f19" alt="VIP Channel Members"/>
+        <img src="https://img.shields.io/badge/VIP_Members-6,181%2B-818cf8?style=for-the-badge&logo=telegram&logoColor=white&labelColor=0b0f19" alt="VIP Channel Members"/>
       </a>
       <br/><br/>
       <a href="https://t.me/+med0IAI7m4ZkN2Q9"><b>👉 Join Pvt Channel</b></a>
@@ -90,7 +90,7 @@ rohit@127hub:~$ cat profile.json
       <h3>💬 Main Group</h3>
       <p><b>Active Discussion & Support</b></p>
       <a href="https://t.me/+UiIung6Lic9mNjk1">
-        <img src="https://img.shields.io/badge/Members-4,362%2B-00c647?style=for-the-badge&logo=telegram&logoColor=white&labelColor=0b0f19" alt="Main Group Members"/>
+        <img src="https://img.shields.io/badge/Members-4,363%2B-00c647?style=for-the-badge&logo=telegram&logoColor=white&labelColor=0b0f19" alt="Main Group Members"/>
       </a>
       <br/><br/>
       <a href="https://t.me/+UiIung6Lic9mNjk1"><b>👉 Join Main Group</b></a>
